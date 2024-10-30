@@ -1,0 +1,1 @@
+{"type":"module","name":"apptrem","version":"1.0.0","main":"appTrem.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"keywords":[],"author":"","license":"ISC","description":"","dependencies":{"bycontract":"^2.0.11","n-readlines":"^1.0.1","prompt-sync":"^4.2.0"}}
