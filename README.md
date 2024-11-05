@@ -41,7 +41,7 @@ id,tipo,potencia/carga,passageiros,tempMin,valLocacao
 3 - Execute o programa:
 
 ```bash
-node <AppTrem.js>
+node AppTrem.js
 ```
 A interface de terminal exibirá as opções para listar carros na garagem, inserir carros no trem, remover o último carro do trem e encerrar a sessão.
 
